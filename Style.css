@@ -2,5 +2,8 @@ body {
   background-image: url("https://i2.wp.com/monicadenevan.com/wp-content/themes/monica/images/MD_background.jpg");
   background-size: cover;
   justify-content: center;
-  
+}
+
+img {
+  display:inline;
 }
