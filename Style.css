@@ -1,9 +1,13 @@
 body {
   background-image: url("https://i2.wp.com/monicadenevan.com/wp-content/themes/monica/images/MD_background.jpg");
   background-size: cover;
-  justify-content: center;
+  Margin-left: 500px;
+  Margin-Right: 500px;
+  Margin-Top: 100;
+  Margin-Bottom: 100px;
 }
 
 img {
   float: right;
+  border: 1px solid #000;
 }
