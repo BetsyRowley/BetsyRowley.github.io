@@ -18,8 +18,8 @@ body {
 img {
   border: 1px solid #000;
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 10px;
+  right: 10px;
   z-index: -1;
 }
 
