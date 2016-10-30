@@ -12,7 +12,6 @@ body {
   font-weight: bold;
   font-size: 3em;
   border-bottom: 2px solid #000;
-  position: fixed;
 }
 
 img {
@@ -29,5 +28,5 @@ h1 {
 }
 
 h{
-  padding: 30px;
+  Margin: 2em;
 }
