@@ -37,3 +37,7 @@ p{
 h3, h4 {
   line-height: 2px;
 }
+
+hr {
+  visibility: hidden;
+}
