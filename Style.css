@@ -40,4 +40,5 @@ h3, h4 {
 
 hr {
   visibility: hidden;
+  padding: 0px;
 }
